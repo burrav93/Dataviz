@@ -1,9 +1,3 @@
-// Unit 17 Assignment - Visualizing Data with Leaflet
-// by Christopher Reutz
-
-// var platesUrl = "https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_plates.json";
-
-// Store our API endpoint for USGS earthquake data for all earthquakes in the past 7 days
 var usgsUrl = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson";
 
 
